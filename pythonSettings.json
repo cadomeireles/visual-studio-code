@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "/path/to/folder"
+		}
+	],
+	"settings": {
+		"editor.rulers": [72, 79],
+		"files.trimFinalNewlines": true,
+		"files.trimTrailingWhitespace": true,
+		"python.pythonPath": "/path/to/python"
+	},
+}
