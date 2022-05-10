@@ -4,10 +4,11 @@
 			"path": "/path/to/folder"
 		}
 	],
-	"settings": {
+	"settings": {		
 		"editor.rulers": [72, 79],
 		"files.trimFinalNewlines": true,
 		"files.trimTrailingWhitespace": true,
+		"files.insertFinalNewline": true,
 		"python.pythonPath": "/path/to/python"
 	},
 }
